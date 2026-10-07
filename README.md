@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light_mode.svg">
-  <img alt="Sreeram Kondapalli — Columbia MS Computer Science, Machine Learning; AI Intern at Wolters Kluwer. I build agents, ML systems and cloud tools." src="./dark_mode.svg" width="840">
-</picture>
-
 I'm **Sreeram**, an MS Computer Science student on the Machine Learning track at **Columbia University** and an **AI Intern at Wolters Kluwer**. My work spans LLM agents, machine learning and cloud infrastructure. Previously, I built data pipelines at American Express.
 
 [LinkedIn](https://www.linkedin.com/in/sreeramkondapalli/) · [Email](mailto:sk5680@columbia.edu)
@@ -28,4 +22,3 @@ LLM agents, natural language processing, and computer vision.
 **Infrastructure:** Docker, Kubernetes, MCP, AWS, GCP  
 **Data:** PySpark, BigQuery, Oracle, SQL Server
 
-<sub>Terminal-style layout inspired by [Andrew Grant](https://github.com/Andrew6rant). Original SVG layout using my GitHub profile portrait.</sub>
